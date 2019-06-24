@@ -1,0 +1,8 @@
+[submodule "maya-2019.1"]
+	path = packages/dcc/maya/2019.1
+	url = https://github.com/opcg-packages/maya.git
+	branch = 2019.1.x
+[submodule "maya-2018.6"]
+	path = packages/dcc/maya/2018.6
+	url = https://github.com/opcg-packages/maya.git
+	branch = 2018.6.x
